@@ -48,3 +48,4 @@ public class ValidParanthesis {
         System.out.println(validParanthesis.isValid(stc));
     }
 }
+
